@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     EditText txtKeyWord;
     Button btnTim;
 
+    //Test push git hub
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
